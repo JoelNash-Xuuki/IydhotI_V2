@@ -1,1 +1,1 @@
-csound -odac:hw:1,0 iydhoti_808.orc iydhoti_c.sco
+csound -odac iydhoti_808.orc iydhoti_c.sco
