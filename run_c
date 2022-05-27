@@ -1,0 +1,1 @@
+csound -odac_c.wav iydhoti_808.orc iydhoti_c.sco
